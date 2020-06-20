@@ -19,7 +19,7 @@ $ npm install -g rocksv
 $ rocksv COMMAND
 running command...
 $ rocksv (-v|--version|version)
-rocksv/0.1.0 darwin-x64 node-v12.16.1
+rocksv/0.1.1 darwin-x64 node-v12.16.1
 $ rocksv --help [COMMAND]
 USAGE
   $ rocksv COMMAND
@@ -54,7 +54,7 @@ EXAMPLE
   rsc get dataPath searchingKey
 ```
 
-_See code: [src/commands/get.ts](https://github.com/shuse2/rocksv/blob/v0.1.0/src/commands/get.ts)_
+_See code: [src/commands/get.ts](https://github.com/shuse2/rocksv/blob/v0.1.1/src/commands/get.ts)_
 
 ## `rocksv get-all DATAPATH`
 
@@ -95,7 +95,7 @@ EXAMPLE
   rsc get-all dataPath -l 100
 ```
 
-_See code: [src/commands/get-all.ts](https://github.com/shuse2/rocksv/blob/v0.1.0/src/commands/get-all.ts)_
+_See code: [src/commands/get-all.ts](https://github.com/shuse2/rocksv/blob/v0.1.1/src/commands/get-all.ts)_
 
 ## `rocksv help [COMMAND]`
 

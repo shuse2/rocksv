@@ -1,7 +1,7 @@
 {
   "name": "rocksv",
   "description": "RocksDB simple viewer tool",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "shuse2 @shuse2",
   "repository": "shuse2/rocksv",
   "bin": {
@@ -43,9 +43,9 @@
   },
   "dependencies": {
     "@oclif/command": "^1.5.19",
-		"@oclif/config": "^1.14.0",
-		"@oclif/errors": "^1.2.2",
-		"@oclif/plugin-help": "^2.2.3",
+    "@oclif/config": "^1.14.0",
+    "@oclif/errors": "^1.2.2",
+    "@oclif/plugin-help": "^2.2.3",
     "levelup": "^4.4.0",
     "rocksdb": "^4.1.0",
     "tslib": "1.11.1"
