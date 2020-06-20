@@ -1,12 +1,12 @@
-rsv
+rocksv
 ===
 
 RocksDB simple viewer tool
 
 [![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io)
-[![Version](https://img.shields.io/npm/v/rsv.svg)](https://npmjs.org/package/rsv)
-[![Downloads/week](https://img.shields.io/npm/dw/rsv.svg)](https://npmjs.org/package/rsv)
-[![License](https://img.shields.io/npm/l/rsv.svg)](https://github.com/shuse2/rsv/blob/master/package.json)
+[![Version](https://img.shields.io/npm/v/rocksv.svg)](https://npmjs.org/package/rocksv)
+[![Downloads/week](https://img.shields.io/npm/dw/rocksv.svg)](https://npmjs.org/package/rocksv)
+[![License](https://img.shields.io/npm/l/rocksv.svg)](https://github.com/shuse2/rocksv/blob/master/package.json)
 
 <!-- toc -->
 * [Usage](#usage)

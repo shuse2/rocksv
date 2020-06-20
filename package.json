@@ -26,9 +26,6 @@
       "@oclif/plugin-help"
     ]
   },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  },
   "types": "lib/index.d.ts",
   "files": [
     "/bin",
